@@ -1,9 +1,9 @@
-:~  title+'mine'
-    info+'fixme'
-    color+0xff.4400
-    image+'https://freedom-club.sfo2.digitaloceanspaces.com/props/quartus/long-logo/ab_Quartus-05_only.png'
+:~  title+'haunt'
+    info+'welcome back'
+    color+0xf4.f2f7
+    image+'https://freedom-club.sfo2.digitaloceanspaces.com/lgh-logo.svg'
     version+[0 0 1]
-    website+'https://dalten.org/'
+    website+'https://www.letsgethaunted.com/welcome'
     license+'REKT'
-    site+/apps/mine
+    site+/apps/haunt
 ==

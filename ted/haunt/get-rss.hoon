@@ -33,7 +33,7 @@
         enclosures+clos
         description+so
         'itunes_image'^so
-        published+du
+        published+di
     ==
   ::  +clos: grab the streaming link
   ::
@@ -70,4 +70,4 @@
 ;<  bod=cord  bind:m  (extract-body u.cli)
 ?~  jun=(de-json:html bod)  fail
 =+  episodes=(chan u.jun)
-(pure:m episodes)
+(pure:m !>(episodes))

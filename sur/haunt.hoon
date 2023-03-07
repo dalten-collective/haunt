@@ -3,6 +3,8 @@
 ::
 |%
 ::
++$  action  $%([%none ~])
+::
 ++  rss
   |%
   +$  items  (list item)
